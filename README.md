@@ -10,4 +10,4 @@ See the [project page](http://www.mrcaps.com/#proj/sel/Focsbox/) for this same d
 
 ## Screenshot
 
-![Screenshot](https://raw.github.com/mrcaps/focsbox/source/screenshot.png)
+![Screenshot](https://raw.github.com/mrcaps/focsbox/master/source/screenshot.png)
